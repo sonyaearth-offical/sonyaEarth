@@ -13,7 +13,8 @@
             "description": "sonyaEarth Offical Client Running With Minecraft 1.16.5 (Forge v36.2.39)",
             "icon": null,
             "version": "1.16.5",
-            "address": "earth.sonyakun.ml",
+            "address_comment": "earth.sonyakun.ml",
+            "address": "localhost",
             "minecraftVersion": "1.16.5",
             "discord": {
                 "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
